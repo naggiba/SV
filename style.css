@@ -1,0 +1,22 @@
+<style media = 'screen'>
+  body{
+    background-color:#FFDAFA;
+}
+
+hr {
+  border-style: none;
+  order-top-style: dashed;
+  border-color: grey;
+  border-width: 5px;
+  width 10%;
+}
+
+h1{
+  color:#0f4c75;
+}
+
+h3 {
+  color:#0f4c75;
+}
+
+</style>
